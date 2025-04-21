@@ -1,5 +1,5 @@
-<h1>Hi, I'm Alexander! <br/><a href="https://github.com/joshmadakor1">Offensive Security 
- </a>, <a href="https://www.linkedin.com/in/joshmadakor/"> </a> <a href="https://www.youtube.com/c/joshmadakor"> Enterprise Defense</a></h1>
+<h1>Hi, I'm Alexander! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Engineer
+ </a> <a href="https://www.linkedin.com/in/joshmadakor/"> </a> <a href="https://www.youtube.com/c/joshmadakor"> Red Team </a></h1>
 
 <h2>👨‍💻 Offensive Security & Threat Simulation Projects:</h2>
 
