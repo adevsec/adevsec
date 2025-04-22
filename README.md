@@ -5,9 +5,7 @@
 
 - <b> Advanced Threat Emulation & Red Team Tactics</b>
    - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
- #  - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
-   - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
-   - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
+ 
 - <b>Enterprise Security Engineering & Blue Team Automation</b>
   - [Splunk Detection Engineering Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
   - [Purple Team Attack Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
