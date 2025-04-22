@@ -10,6 +10,10 @@
    - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
 - <b>Enterprise Security Engineering & Blue Team Automation</b>
   - [Splunk Detection Engineering Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
+  - [Purple Team Attack Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
+  - [SIEM Enrichment Pipeline](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
+  - [File Integrity Monitor (PowerShell)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
+  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
