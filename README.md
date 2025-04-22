@@ -5,14 +5,14 @@
 
 - <b> Advanced Threat Emulation & Red Team Tactics</b>
    - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
-   - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
+ #  - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
    - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
    - [EternalBlue (MS17-010) Exploitation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Simulated APT-level SMB exploitation)</b></i>
 - <b>Enterprise Security Engineering & Blue Team Automation</b>
   - [Splunk Detection Engineering Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
   - [Purple Team Attack Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
   - [SIEM Enrichment Pipeline](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
-  - [File Integrity Monitor (PowerShell)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Engineered detection logic & Simulated Attacks)</b></i>
+  - [File Integrity Monitor (PowerShell)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Agent for detecting unauthorized file access and modification across monitored paths)</b></i>
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -41,7 +41,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+#[twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/userupload
 #[instagram]: https://www.instagram.com/joshmadako/
 [linkedin]: https://linkedin.com/in/joshmadakor
